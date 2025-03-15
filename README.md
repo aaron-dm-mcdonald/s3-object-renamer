@@ -7,7 +7,7 @@ This project sets up an AWS Lambda function to automatically rename files upload
 ## Architecture
 
 ### Architecture Diagram
-![Diagram](assets/s3-renamer-v3.png)
+![Diagram](assets/s3-renamer-v4.png)
 
 ### Architecture Overview
 
