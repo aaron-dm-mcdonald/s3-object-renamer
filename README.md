@@ -77,7 +77,7 @@ Open tabs for the **S3**, **Lambda**, and **IAM** dashboards.
 - Verify that the Lambda function is triggered by checking **CloudWatch Logs** for execution details.  
 
 
-## Terraform Deploymen Instructions
+## Terraform Deployment Instructions
 
 ### 1. Move to your projects folder
 Move into your projects folder inside the TheoWAF directory on your computer for example. 
